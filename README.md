@@ -1,12 +1,14 @@
 ### Hi there, my name is Azim. I'm a full stack developer. 👋
 
 ## Skills
+---
 - JavaScript (React, Express, Node)
 - Dart (Flutter)
+---
+- Currently learning React Native.
+- Fun fact: I also make music.
 
-Currently learning React Native.
-
-### Contact me here:
+### You can contact me here:
 akmatoff.exe@gmail.com
 
 <!--
