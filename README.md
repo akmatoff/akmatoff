@@ -1,9 +1,13 @@
 ### Hi there, my name is Azim. I'm a full stack developer. 👋
 
-# Skills
------
+## Skills
 - JavaScript (React, Express, Node)
 - Dart (Flutter)
+
+Currently learning React Native.
+
+### Contact me here:
+akmatoff.exe@gmail.com
 
 <!--
 **akmatoff/akmatoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
