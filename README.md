@@ -4,6 +4,7 @@
 
 - JavaScript (React, Express, Node)
 - Dart (Flutter)
+- HTML, CSS
 ---
 - Currently learning React Native.
 - Fun fact: I also make music.
