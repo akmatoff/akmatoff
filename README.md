@@ -6,8 +6,6 @@
 - Dart (Flutter)
 - HTML, CSS
 ---
-- Currently learning React Native.
-- Fun fact: I also make music.
 
 ### You can contact me here:
 akmatoff.exe@gmail.com
