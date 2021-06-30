@@ -7,6 +7,17 @@
 - HTML, CSS
 ---
 
+Check my [personal website](https://akmatoff.github.io) 
+
+## Recent projects
+- [Todo Flutter](https://github.com/akmatoff/todo_flutter)
+- [HTC Lib](https://github.com/boorsoft/htc-lib)
+- [HTC Lib Backend](https://github.com/boorsoft/htc-online-library-express)
+- [Three JS Car Driving](https://github.com/akmatoff/threejs-car-driving) | [Demo](https://akmatoff.github.io/threejs-car-driving/)
+- [History Book](https://github.com/boorsoft/history-book)
+- [By Students' Eyes (Front-End)](https://github.com/boorsoft/bseyes-flutter)
+- [By Students' Eyes (Back-End)](https://github.com/boorsoft/bseyes-restapi)
+
 ### You can contact me here:
 akmatoff.exe@gmail.com
 
