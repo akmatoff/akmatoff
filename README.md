@@ -10,6 +10,7 @@
 Check my [personal website](https://akmatoff.github.io) 
 
 ## Recent projects
+- [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
 - [instabet | An instagram clone](https://github.com/akmatoff/instabet)
 - [Todo Flutter](https://github.com/akmatoff/todo_flutter)
 - [HTC Lib](https://github.com/boorsoft/htc-lib)
@@ -19,8 +20,8 @@ Check my [personal website](https://akmatoff.github.io)
 - [By Students' Eyes (Front-End)](https://github.com/boorsoft/bseyes-flutter)
 - [By Students' Eyes (Back-End)](https://github.com/boorsoft/bseyes-restapi)
 
-- 🔭 I’m currently working on an instagram clone
-- - ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
+----
+- ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
 
 
 ### You can contact me here:
