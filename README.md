@@ -12,6 +12,7 @@ Check my [personal website](https://akmatoff.github.io)
 ## Recent projects
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
 - [instabet | An instagram clone](https://github.com/akmatoff/instabet)
+- [A very simple weather app](https://github.com/akmatoff/weather-app) | [Demo](https://akmatoff.github.io/weather-app)
 - [Todo Flutter](https://github.com/akmatoff/todo_flutter)
 - [HTC Lib](https://github.com/boorsoft/htc-lib)
 - [HTC Lib Backend](https://github.com/boorsoft/htc-online-library-express)
