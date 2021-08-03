@@ -14,7 +14,7 @@
 <br />
 
 ---
-⚡ Fun fact: I also make electronic music and play guitar. [<img align="left" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](http://soundcloud.com/coorootmusic)
+⚡ Fun fact: I also make electronic music and play guitar. [<img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](http://soundcloud.com/coorootmusic)
 
 <br />
 
