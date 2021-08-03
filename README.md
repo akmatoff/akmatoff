@@ -2,13 +2,14 @@
 
 ## Skills
 
-[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40px" />]()
-[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40px" />]()
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" width="40px" />
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react" width="40px" />
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40px" />
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="Nodejs" width="40px" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="Nodejs" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" alt="Database" width="30px" />
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="30px" />
 
 ---
 
