@@ -23,7 +23,6 @@ Check my [personal website](https://akmatoff.github.io)
 - [By Students' Eyes (Front-End)](https://github.com/boorsoft/bseyes-flutter)
 - [By Students' Eyes (Back-End)](https://github.com/boorsoft/bseyes-restapi)
 
-----
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
 
