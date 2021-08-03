@@ -2,12 +2,17 @@
 
 ## Skills
 
-- JavaScript (React, Redux Toolkit, Express, Node)
-- Dart (Flutter)
-- HTML, CSS
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="Nodejs" width="40px" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40px" />
+
 ---
 
-- ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
+- ⚡ Fun fact: I also make electronic music and play guitar. [<img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](http://soundcloud.com/coorootmusic)
 
 ## My portfolio website
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="30px" />](https://akmatoff.github.io) 
@@ -26,6 +31,8 @@
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
+
+<br />
 
 ## Get in touch with me
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/telegram.svg" width="30px" />](https://t.me/akmatoffexe)
