@@ -11,8 +11,7 @@
 <img align="left" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" alt="Database" width="30px" />
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="30px" />
 
-<br />
----
+----
 
 - ⚡ Fun fact: I also make electronic music and play guitar. [<img align="left" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](http://soundcloud.com/coorootmusic)
 
