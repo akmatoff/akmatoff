@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
 
-Check my [personal website](https://akmatoff.github.io) 
+## My portfolio website
+[<img src="src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akmatoff.github.io) 
 
 ## Recent projects
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
@@ -27,9 +28,9 @@ Check my [personal website](https://akmatoff.github.io)
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
 
 ## Get in touch with me
-[<img src="https://www.jsdelivr.com/package/npm/simple-icons/telegram.svg" />](https://t.me/akmatoffexe)
-[<img src="https://www.jsdelivr.com/package/npm/simple-icons/vk.svg" />](https://vk.com/akmatoffexe)
-[<img src="https://www.jsdelivr.com/package/npm/simple-icons/gmail.svg" />](akmatoffexe@gmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/telegram.svg" />](https://t.me/akmatoffexe)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/vk.svg" />](https://vk.com/akmatoffexe)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" />](akmatoffexe@gmail.com)
 /
 
 <!--
