@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
 
 ## My portfolio website
-[<img src="src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="30px" />](https://akmatoff.github.io) 
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="30px" />](https://akmatoff.github.io) 
 
 ## Recent projects
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
