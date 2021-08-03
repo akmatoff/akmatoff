@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
 
 ## My portfolio website
-[<img src="src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akmatoff.github.io) 
+[<img src="src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="30px" />](https://akmatoff.github.io) 
 
 ## Recent projects
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
@@ -28,10 +28,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
 
 ## Get in touch with me
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/telegram.svg" />](https://t.me/akmatoffexe)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/vk.svg" />](https://vk.com/akmatoffexe)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" />](akmatoffexe@gmail.com)
-/
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/telegram.svg" width="30px" />](https://t.me/akmatoffexe)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/vk.svg" width="30px" />](https://vk.com/akmatoffexe)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="30px" />](akmatoffexe@gmail.com)
 
 <!--
 **akmatoff/akmatoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
