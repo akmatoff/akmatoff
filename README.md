@@ -24,6 +24,8 @@ Check my [personal website](https://akmatoff.github.io)
 ----
 - ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
 
+[Github Stats](https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true)
+
 
 ### You can contact me here:
 akmatoff.exe@gmail.com
