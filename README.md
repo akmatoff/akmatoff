@@ -26,8 +26,11 @@ Check my [personal website](https://akmatoff.github.io)
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
 
-### You can contact me here:
-akmatoff.exe@gmail.com
+## Get in touch with me
+[<img src="https://www.jsdelivr.com/package/npm/simple-icons/telegram.svg"](https://t.me/akmatoffexe)
+[<img src="https://www.jsdelivr.com/package/npm/simple-icons/vk.svg"](https://vk.com/akmatoffexe)
+[<img src="https://www.jsdelivr.com/package/npm/simple-icons/gmail.svg"](akmatoffexe@gmail.com)
+
 
 <!--
 **akmatoff/akmatoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
