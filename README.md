@@ -7,6 +7,8 @@
 - HTML, CSS
 ---
 
+- ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
+
 Check my [personal website](https://akmatoff.github.io) 
 
 ## Recent projects
@@ -22,10 +24,8 @@ Check my [personal website](https://akmatoff.github.io)
 - [By Students' Eyes (Back-End)](https://github.com/boorsoft/bseyes-restapi)
 
 ----
-- ⚡ Fun fact: I also make electronic music and play guitar. [Check my souncloud](http://soundcloud.com/coorootmusic)
-
+## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akmatoff&show_icons=true" alt="Github stats" align="left" />
-
 
 ### You can contact me here:
 akmatoff.exe@gmail.com
