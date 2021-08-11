@@ -22,6 +22,7 @@
 <br />
 
 ## Recent projects
+- [Pomodoro](https://github.com/akmatoff/pomodoro) | [Demo](https://akmatoff.github.io/pomodoro)
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
 - [instabet | An instagram clone](https://github.com/akmatoff/instabet)
 - [A very simple weather app](https://github.com/akmatoff/weather-app) | [Demo](https://akmatoff.github.io/weather-app)
