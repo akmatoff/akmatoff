@@ -22,7 +22,7 @@
 <br />
 
 ## Recent projects
-- [Coorootmusic | My musician website](https://github.com/akmatoff/coorootmusic) 
+- [Coorootmusic | My musician website](https://github.com/akmatoff/coorootmusic) | [Demo](https://cooroot.netlify.app)
 - [Pomodoro](https://github.com/akmatoff/pomodoro) | [Demo](https://akmatoff.github.io/pomodoro)
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
 - [instabet | An instagram clone](https://github.com/akmatoff/instabet)
