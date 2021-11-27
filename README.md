@@ -22,6 +22,7 @@
 <br />
 
 ## Recent projects
+- [Github Repo Viewer | View repos of various organizations](https://github.com/akmatoff/github-repo-viewer) | [Demo](https://akmatoff.github.io/github-repo-viewer/)
 - [Coorootmusic | My musician website](https://github.com/akmatoff/coorootmusic) | [Demo](https://cooroot.netlify.app)
 - [Pomodoro](https://github.com/akmatoff/pomodoro) | [Demo](https://akmatoff.github.io/pomodoro)
 - [p5-visualizer | Simple audio visuals with P5.js](https://github.com/akmatoff/p5-visualizer) | [Demo](https://akmatoff.github.io/p5-visualizer)
