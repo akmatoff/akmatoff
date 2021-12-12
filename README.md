@@ -24,7 +24,7 @@
 <br />
 
 ## Recent projects
-- [Markdown Previewer](httpsL//github.com/akmatoff/markdown-previewer) | [Demo](https://akmatoff.github.io/markdown-previewer/)
+- [Markdown Previewer](https://github.com/akmatoff/markdown-previewer) | [Demo](https://akmatoff.github.io/markdown-previewer/)
 - [Random Quote Machine](https://github.com/akmatoff/random-quote-machine) | [Demo](https://akmatoff.github.io/random-quote-machine/)
 - [Github Repo Viewer | View repos of various organizations](https://github.com/akmatoff/github-repo-viewer) | [Demo](https://akmatoff.github.io/github-repo-viewer/)
 - [Coorootmusic | My musician website](https://github.com/akmatoff/coorootmusic) | [Demo](https://cooroot.netlify.app)
