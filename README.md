@@ -1,3 +1,5 @@
+![Profile Page IMG](https://gcdn.pbrd.co/images/BMjz69srSy4J.png?o=1)
+
 ### Hi there, my name is Azim. I'm a full stack JavaScript developer. 👋
 
 ## Skills
