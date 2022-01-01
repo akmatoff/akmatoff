@@ -26,6 +26,7 @@
 <br />
 
 ## Recent projects
+- [Calculator](https://github.com/akmatoff/calculator) | [Demo](https://akmatoff.github.io/calculator/)
 - [Markdown Previewer](https://github.com/akmatoff/markdown-previewer) | [Demo](https://akmatoff.github.io/markdown-previewer/)
 - [Random Quote Machine](https://github.com/akmatoff/random-quote-machine) | [Demo](https://akmatoff.github.io/random-quote-machine/)
 - [Github Repo Viewer | View repos of various organizations](https://github.com/akmatoff/github-repo-viewer) | [Demo](https://akmatoff.github.io/github-repo-viewer/)
