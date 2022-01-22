@@ -26,6 +26,7 @@
 ## Recent projects
 #### Job test projects
 - [Github Repo Viewer | View repos of various organizations](https://github.com/akmatoff/github-repo-viewer) | [Demo](https://akmatoff.github.io/github-repo-viewer/)
+- [Savings Calculator](https://github.com/akmatoff/savings-calculator) | [Demo](https://akmatoff.github.io/savings-calculator)
 
 #### Personal projects
 - [Coorootmusic | My musician website](https://github.com/akmatoff/coorootmusic) | [Demo](https://cooroot.netlify.app)
