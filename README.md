@@ -1,4 +1,4 @@
-![Profile Page IMG](https://gcdn.pbrd.co/images/BMjz69srSy4J.png?o=1)
+![Profile Page IMG](https://i.ibb.co/sqHN1pJ/github-profile.jpg)
 
 ### Hi there, my name is Azim, and I'm a JavaScript developer. 👋
 #### Mostly I'm a front-end developer, but can make some back-end things too.
