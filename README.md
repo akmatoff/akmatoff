@@ -21,7 +21,10 @@
 <br />
 
 <br />⚡ Fun fact: I also make electronic music and play guitar. [<img align="center" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](https://soundcloud.com/coorootmusic) <br />
-⌨️ I practice touch typing. Let's see who types faster [here](https://10fastfingers.com/user/2213333/).
+
+⌨️ I practice touch typing. Let's see who types faster [here](https://10fastfingers.com/user/2213333/). <br />
+
+🔍 Currently learning blender...
 
 ## Recent projects
 #### Job test projects
