@@ -24,7 +24,7 @@
 
 ⌨️ I practice touch typing. Let's see who types faster [here](https://10fastfingers.com/user/2213333/). <br />
 
-🔍 Currently learning blender...
+🔍 Currently learning angular...
 
 ## Recent projects
 #### Job test projects
