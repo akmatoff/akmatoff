@@ -22,7 +22,7 @@
 
 ⌨️ I practice touch typing. Let's see who types faster [here](https://10fastfingers.com/user/2213333/). <br />
 
-🔍 Currently learning angular...
+🔍 Currently learning nextjs...
 
 ## Recent projects
 #### Job test projects
