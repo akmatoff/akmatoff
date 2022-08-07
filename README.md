@@ -37,13 +37,6 @@
 - [Todo Flutter](https://github.com/akmatoff/todo_flutter)
 - [Three JS Car Driving](https://github.com/akmatoff/threejs-car-driving) | [Demo](https://akmatoff.github.io/threejs-car-driving/)
 
-#### College projects
-- [HTC Lib](https://github.com/boorsoft/htc-lib)
-- [HTC Lib Backend](https://github.com/boorsoft/htc-online-library-express)
-- [By Students' Eyes (Front-End)](https://github.com/boorsoft/bseyes-flutter)
-- [By Students' Eyes (Back-End)](https://github.com/boorsoft/bseyes-restapi)
-- [History Book](https://github.com/boorsoft/history-book)
-
 #### Freecodecamp projects
 - [Calculator](https://github.com/akmatoff/calculator) | [Demo](https://akmatoff.github.io/calculator/)
 - [Markdown Previewer](https://github.com/akmatoff/markdown-previewer) | [Demo](https://akmatoff.github.io/markdown-previewer/)
