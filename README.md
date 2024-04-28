@@ -13,25 +13,22 @@
 <img align="left" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" alt="Database" width="30px" />
 <img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 
-<br />⚡ Fun fact: I also make electronic music and play guitar. [<img align="center" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](https://soundcloud.com/coorootmusic) <br />
+<br />⚡ Fun fact: I also make electronic music and play guitar. [<img align="center" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-soundcloud-4661625_122489.png" alt="soundcloud" width="30px" />](https://soundcloud.com/jaraitsans) <br />
 
 ⌨️ I practice touch typing. Let's see who types faster [here](https://10fastfingers.com/user/2213333/). <br />
 
-🔍 Currently learning nextjs...
+🔍 Currently seeking new opportunities...
 
-<br />
+- 📫 How to reach me: 
+  - email: akmatoff.exe@gmail.com
+  - telegram: [t.me/@azimoffs](https://t.me/@azimoffs)
+  - instagram: [akmatoff.exe](https://instagram.com/akmatoff.exe)
 
-## Get in touch with me
-[<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="30px" />](https://akmatoff.github.io) 
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/telegram.svg" width="30px" />](https://t.me/akmatoffexe)
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/vk.svg" width="30px" />](https://vk.com/akmatoffexe)
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="30px" />](akmatoffexe@gmail.com)
-
-
+## My website
+[akmatoff.com](https://akmatoff.com)
 <!--
 **akmatoff/akmatoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
