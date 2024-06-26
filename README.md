@@ -25,5 +25,8 @@
   <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&labelColor=blue">
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&labelColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&labelColor=yellow">
-  <img src="https://img.shields.io/badge/Next.js-white?logo=next.js&logoColor=black&labelColor=white">
+  <img src="https://img.shields.io/badge/Next.js-white?logo=next.js&logoColor=black&labelColor=white"><br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-white?logo=tailwindcss&labelColor=white">
+  <img src="https://img.shields.io/badge/React_Query-black?logo=reactquery&labelColor=white">
+  <img src="https://img.shields.io/badge/React_Hook_Form-black?logo=reacthookform&labelColor=white">
 </p>
