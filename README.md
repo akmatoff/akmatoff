@@ -1,4 +1,3 @@
-<img align="center" src="/github-header-image.png">
 
 <p align="center">
   <samp>Hello there, I'm <a href="https://akmatoff.com">Azim</a>.</samp>
