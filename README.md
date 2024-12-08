@@ -1,6 +1,6 @@
 
 <p align="center">
-  <samp>Hello there, I'm <a href="https://akmatoff.com">Azim</a>.</samp>
+  <samp>Hello there, I'm <a href="https://akmatoff.github.io">Azim</a>.</samp>
   <br>
   <samp>I'm a front-end developer based in Kyrgyzstan.</samp>
   <br><br>
